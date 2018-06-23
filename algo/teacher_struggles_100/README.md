@@ -19,6 +19,7 @@ for letter in enc:
 print(num)
 ```
 Concise version:
+```
 enc = "zkdxmxkhvgofoqvyeccuxokfimbtyhrbkpougnvzbhseotymydwbadenbzxrzfanxetkvyiczvoybearnqszydnwhrjamlpcqfxi"
 num = 0
 multiples = { "h": 1, "s": 2, "c": 3, "t": 4, "f": 5 }
@@ -28,5 +29,6 @@ for letter in enc:
   	num = (num + 1) * multiples[letter]
 
 print(num)
+```
 
 **Flag**: 29774315
