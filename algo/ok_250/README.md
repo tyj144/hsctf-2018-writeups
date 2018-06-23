@@ -4,6 +4,7 @@
 We initially figured out that it was impossible to have more than two “O”s in a row because when a K changes into KO or an O changes into an OK, the O will always be attached to another K. Thus, the best we could do is “KOOK”.
 
 We wrote a script that counted the number of “OO” pairs in a given string, which you can find here. This gave us the output:
+```
 1: 0
 2: 1
 3: 1
@@ -23,6 +24,7 @@ We wrote a script that counted the number of “OO” pairs in a given string, w
 17: 21845
 18: 43691
 19: 87381
+```
 
 This script was also incredibly slow, because it requires exponential time to expand each string and then it has to count all the pairs in the string. 
 
