@@ -1,0 +1,17 @@
+Hello
+Is anybody there?
+Oh hello there. Listen, I need you to do me a favor
+I need to leak a password, don't tell anyone
+Sending in 3...
+2...
+1...
++-----------------------------------------------------+
+|                                                     |
+|  THE PASSWORD IS: p106iWIcJpF5dLBew2ZaaBVGqZuLw77G  ||  THE PASSWORD IS: ********************************
+|                                                     |
++-----------------------------------------------------+
+Did you get the password?
+I think the censors might have tried to block it
+Tell me the password I sent you, I must make sure you got it
+> Thanks. I found this written on a piece of paper:
+ flag_{3ScaPE_C0De5_4_l1F3}
